@@ -4,17 +4,17 @@ Software Engineering undergraduate at Curtin University, Colombo — building fu
 
 ## 🔭 Currently working on
 
-- 📊 **ML-Powered Analytics Dashboard** — full-stack dashboard integrating ML models (FastAPI, PostgreSQL, React/Next.js, scikit-learn, XGBoost)
+- 📊 [**Telco Churn Dashboard**](https://github.com/LAKWAN194/telco-churn-dashboard) — end-to-end ML system predicting customer churn: data pipeline, scikit-learn/XGBoost models, FastAPI + PostgreSQL backend, React frontend in progress
 - 🤖 **ReAct-Style AI Agent** — building an agent from scratch on local LLMs to learn core agent reasoning and tool-use mechanics
-- 🎓 **Capstone Project (CCP1/CCP2)** — client-facing team project with real client engagement, version control, and milestone handover planning
+- 🎓 **Capstone Project (CCP1/CCP2)** — client-facing team project with real client engagement, version control, and milestone handover planning; now in its final stage
 
 ## 🛠 Tech Stack
 
-**Languages:** Java · Python · C · C# · Kotlin
+**Languages:** Java · Python · JavaScript · C · C# · Kotlin
 
-**Frameworks & Tools:** FastAPI · React/Next.js · .NET Framework · MySQL · PostgreSQL · JUnit
+**Frameworks & Tools:** FastAPI · React/Next.js · .NET Framework · MySQL · PostgreSQL · Docker · JUnit
 
-**ML/Data:** scikit-learn · XGBoost
+**ML/Data:** pandas · scikit-learn · XGBoost · Jupyter
 
 **AI-Assisted Development:** Claude Code · GitHub Copilot · ChatGPT
 
@@ -25,9 +25,10 @@ Software Engineering undergraduate at Curtin University, Colombo — building fu
 - [**Autonomous Vehicle Management System**](https://github.com/LAKWAN194/Autonomous-Vehicle-Management-System) — graph traversal, a custom hash table, and Heapsort/Quicksort to manage and query a vehicle fleet
 - [**Treasure Hunt Game**](https://github.com/LAKWAN194/Treasure-Hunt-Game) — terminal-based maze game in C with dynamic memory allocation, file I/O, and a linked-list undo feature
 
-## 🎓 Achievements
+## 🎓 Achievements & Competitions
 
 - 4x Dean's List, Curtin University Colombo
+- Tech-Triathlon 2026 Datathon — team entry submitted October 2026, covering prediction, demand forecasting, and resource allocation tasks
 
 ## 🤝 Let's Connect
 
